@@ -1,0 +1,44 @@
+{
+  "type": "crafting_shaped",
+  "skill": "provisioning",
+  "research": "",
+  "tool_type": "spoon",
+  "is_tool_recipe": false,
+  "block_tier": -1,
+  "craft_time": 30,
+  "tool_tier": 2,
+  "experience": 0,
+  "sound": "minecraft:block.wood.step",
+  "pattern": [
+    "    ",
+    "FMR ",
+    "PGC ",
+    "PBC "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "P": {
+      "item": "fantasyfoods:slices_potato"
+    },
+    "C": {
+      "item": "fantasyfoods:slices_carrot"
+    },
+    "M": {
+      "item": "minefantasyreforged:jug_milk"
+    },
+    "G":{
+      "item": "minefantasyreforged:generic_meat_chunk_cooked"
+    },
+    "R": {
+      "item": "minecraft:red_mushroom"
+    },
+    "F": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "fantasyfoods:pottage"
+  }
+}

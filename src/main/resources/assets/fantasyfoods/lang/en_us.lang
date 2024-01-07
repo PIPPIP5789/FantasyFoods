@@ -1,0 +1,34 @@
+item.sandwitch_veggie.name=Veggie Sandwitch
+item.salad.name=Salad
+item.pottage.name=Pottage
+item.jam_jar.name=Jam Jar
+item.jam_apple.name=Apple Jam
+item.jam_berry.name=Berry Jam
+item.jam_grape.name=Grape Jam
+item.jam_apple_roll.name=Apple Jam Roll
+item.jam_berry_roll.name=Berry Jam Roll
+item.jam_grape_roll.name=Grape Jam Roll
+item.berries_dried.name=Dried Berries
+item.slices_carrot.name=Carrot Slices
+item.slices_potato.name=Potato Slices
+
+knowledge.jams=Jams
+knowledge.jamrolls=Jam Rolls
+knowledge.pottage=Pottage
+knowledge.salad=Salad
+knowledge.veggie_sandwitch=Vegetable Sandwitch
+knowledge.slicing=Sliced Vegetables
+
+knowledge.jams.desc=Caught in a jam
+knowledge.jamrolls.desc=Fruity sweetness rolled up
+knowledge.pottage.desc=Hearty porridge
+knowledge.salad.desc=Eat your greens
+knowledge.veggie_sandwitch.desc=Even more greens
+knowledge.slicing.desc=Slice and (no) dice
+
+knowledge.jams.page.1=Jams are a useful way of preserving various fruits and berries, and are especially helpful when dealing with long trips. Furthermore, by jamming them, they can go great with a host of new foods, unlocking new possibilities and combinations.
+knowledge.jamrolls.page.1=You've discovered that by stuffing a warm, flaky, golden-crusted breadroll with a cool, sweet, fruit-flavored jam, you can create a both delicious and nutritious dish! The Jam Roll is a cheap but solid food for going exploring with.
+knowledge.pottage.page.1=A staple in both the peasant's and the royal's diet, pottage is a hearty dish that provides a lot of nutrition across the board, being made from a combination of meats, vegetables, and an assortment of foods.
+knowledge.salad.page.1=A lean, mean, green dish, the salad is an easy to prepare, yet surprisingly healthy alternative, and a good source of vegetables if you're running a little low.
+knowledge.veggie_sandwitch.page.1=By adding some vegetables to your normal sandwitch recipe, you find that the sandwitch becomes even more potent than before, giving you some additional benefits.
+knowledge.slicing.page.1=By slicing up vegetables before use, you can often get more out of a particular kind of food. In fact, sometimes, foods require only sparse amounts of a vegetable, in which case cutting it up is a necessity. Either way, make sure to chop before you cook!

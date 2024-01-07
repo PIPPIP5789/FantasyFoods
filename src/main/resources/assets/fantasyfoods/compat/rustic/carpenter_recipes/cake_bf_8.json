@@ -1,0 +1,39 @@
+{
+  "type": "crafting_shaped",
+  "skill": "provisioning",
+  "research": "black_forest_cake",
+  "tool_type": "knife",
+  "is_tool_recipe": false,
+  "block_tier": -1,
+  "craft_time": 100,
+  "tool_tier": -1,
+  "experience": 0,
+  "sound": "minecraft:block.wood.step",
+  "pattern": [
+    "WWW ",
+    "III ",
+    "CAC ",
+    "    "
+  ],
+  "key": {
+    "A": {
+      "item": "minefantasyreforged:cake_bf_uniced"
+    },
+    "B": {
+      "item": "minefantasyreforged:berries"
+    },
+    "W": {
+      "item": "rustic:wildberries"
+    },
+    "C": {
+      "item": "minefantasyreforged:chocolate"
+    },
+    "I": {
+      "item": "minefantasyreforged:icing"
+    }
+  },
+  "result": {
+    "item": "minefantasyreforged:cake_bf",
+    "data": 0
+  }
+}

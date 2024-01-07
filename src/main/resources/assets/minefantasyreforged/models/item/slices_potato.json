@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fantasyfoods:items/potato_slices"
+  }
+}

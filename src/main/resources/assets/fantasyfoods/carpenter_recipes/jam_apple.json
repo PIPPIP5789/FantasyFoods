@@ -1,0 +1,32 @@
+{
+  "type": "crafting_shaped",
+  "skill": "provisioning",
+  "research": "",
+  "tool_type": "spoon",
+  "is_tool_recipe": false,
+  "block_tier": -1,
+  "craft_time": 20,
+  "tool_tier": 1,
+  "experience": 0,
+  "sound": "minecraft:block.wood.step",
+  "pattern": [
+    "    ",
+    " S  ",
+    "APA ",
+    "    "
+  ],
+  "key": {
+    "P": {
+      "item": "minefantasyreforged:clay_pot"
+    },
+    "S": {
+      "item": "minefantasyreforged:sugar_pot"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "fantasyfoods:jam_apple"
+  }
+}

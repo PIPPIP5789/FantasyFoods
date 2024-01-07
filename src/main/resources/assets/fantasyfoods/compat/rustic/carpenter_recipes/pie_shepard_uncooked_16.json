@@ -1,0 +1,44 @@
+{
+  "type": "crafting_shaped",
+  "skill": "provisioning",
+  "research": "shepard_pie",
+  "tool_type": "knife",
+  "is_tool_recipe": false,
+  "block_tier": -1,
+  "craft_time": 200,
+  "tool_tier": 3,
+  "experience": 0,
+  "sound": "minecraft:block.wood.hit",
+  "pattern": [
+    "KAK ",
+    "GGG ",
+    "SAS ",
+    " E  "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "A": {
+      "item": "minefantasyreforged:pastry"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "S": {
+      "item": "fantasyfoods:slices_carrot"
+    },
+    "K": {
+      "item": "fantasyfoods:slices_potato"
+    },
+    "E": {
+      "item": "minefantasyreforged:pie_tray"
+    },
+    "G": {
+      "item": "minefantasyreforged:generic_meat_mince_cooked"
+    }
+  },
+  "result": {
+    "item": "minefantasyreforged:pie_shepard_uncooked"
+  }
+}
